@@ -15,3 +15,4 @@ This project helps to short URL.The frontend is made by ReactJs and backend in n
   7. ``` $ npm start   ``` In both frontend and backend (Preferably First)
   
   
+  ![picture](screen-capture.gif)
